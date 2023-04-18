@@ -1,9 +1,9 @@
 # Credit Card Fraud Detection
 The Credit Card Fraud Detection is an example of a binary classification problem. Here, we train the model using past transactions to find the fraudulent transactions on a future data set. The main objective of our project is to find the fraudulent transactions in a given synthetic transaction data set using 5 different data mining algorithms and compare the performance of each algorithm to determine the best fit
 
-Project Report - Data_Mining_Project_Report.pdf
-Pre-processing code - Pre_processing.ipynb
-IVIS, Sampling, Data Mining Models - IVIS and Algorithms.ipynb
+1. Project Report - Data_Mining_Project_Report.pdf
+2. Pre-processing code - Pre_processing.ipynb
+3. VIS, Sampling, Data Mining Models - IVIS and Algorithms.ipynb
 
 ## Results
 
