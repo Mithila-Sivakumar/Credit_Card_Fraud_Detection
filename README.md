@@ -8,10 +8,12 @@ IVIS, Sampling, Data Mining Models - IVIS and Algorithms.ipynb
 ## Results
 
 <b> A 3-D graph showing the clear partition of both classes (Red-Fraud, Blue- Not Fraud) when k=15 in IVIS: </b>
+
 <img width="467" alt="Screen Shot 2023-04-18 at 3 37 02 PM" src="https://user-images.githubusercontent.com/127549357/232887040-8de3b725-d857-4477-8b7c-0afff7123e7c.png">
 
 
 <b> Results of Data Mining Algorithms: </b>
+
 <img width="327" alt="Screen Shot 2023-04-18 at 3 37 24 PM" src="https://user-images.githubusercontent.com/127549357/232886768-6a0323fb-9d7b-4fb4-9719-8f20aa252532.png">
 
 ## Summary
